@@ -1,0 +1,7 @@
+info:
+  component: front-end-npdp
+  version: 1.0.0
+ 
+server:
+  port: 2410
+
